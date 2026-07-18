@@ -9,7 +9,7 @@ I'm a Full-Stack Developer passionate about building scalable web applications t
 </p>
 
 <p align="center">
-<a href="mailto:shivambaberwal123@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="mailto:joshwababerwal123@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://github.com/Yo-Joshwa"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/shivam-90525b288/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
@@ -54,6 +54,27 @@ I'm a Full-Stack Developer passionate about building scalable web applications t
 <img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white" />
 <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
 </p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-stats-extended.vercel.app/api?username=Yo-Joshwa" width="49%" />
+<img src="https://streak-stats.demolab.com/?user=Yo-Joshwa" width="49%" />
+</p>
+
+<p align="center">
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Yo-Joshwa&layout=compact" width="49%" />
+</p>
+
+---
+
+### 🔭 Currently Working On
+
+- Improving PathCrafters with more AI-driven trip personalization features
+- Sharpening DSA fundamentals and pushing my Codeforces/LeetCode ratings higher
+- Exploring RAG and LLM-based tooling beyond the GFG GenAI course
 
 ---
 
@@ -107,7 +128,7 @@ Built an IoT-based attendance system using ESP32-CAM and facial recognition to a
 
 | Platform | Handle | Rating |
 |---|---|---|
-| LeetCode | Yo-Joshwa | 1951 (Knight) |
+| LeetCode | Yo-Joshwa | 1951 |
 | Codeforces | Yo-Joshwa | 1449 (Specialist) |
 | CodeChef | yo-joshwa | 1505 |
 | GeeksforGeeks | yojoshwa | 1669 |
