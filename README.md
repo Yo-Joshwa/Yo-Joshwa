@@ -115,5 +115,5 @@ Built an IoT-based attendance system using ESP32-CAM and facial recognition to a
 ---
 
 <p align="center">
-📫 Reach me at <a href="mailto:shivambaberwal123@gmail.com">shivambaberwal123@gmail.com</a>
+📫 Reach me at <a href="mailto:joshwababerwal123@gmail.com">joshwababerwal123@gmail.com</a>
 </p>
